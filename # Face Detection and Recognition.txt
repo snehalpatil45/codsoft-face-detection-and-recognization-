@@ -1,0 +1,25 @@
+# Face Detection and Recognition
+
+AI model for real-time face detection and recognition using OpenCV and face_recognition.
+
+## Install
+Requires Python 3.8+:
+```sh
+pip install -r requirements.txt
+```
+
+## Usage
+1. Add a reference image as `known_face.jpg`.
+2. Run:
+```sh
+python face_recognition.py
+```
+3. Press 'q' to exit.
+
+## Files
+- `face_recognition.py` - Main script
+- `known_face.jpg` - Reference image
+
+## License
+MIT
+
